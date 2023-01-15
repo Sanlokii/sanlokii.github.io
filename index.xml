@@ -2,236 +2,236 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Sanlokii</title>
-    <link>https://sanlokii.eu/</link>
+    <link>https://www.sanlokii.eu/</link>
     <description>Recent content on Sanlokii</description>
     <image>
-      <url>https://sanlokii.eu/assets/images/apple-touch-icon.png</url>
-      <link>https://sanlokii.eu/assets/images/apple-touch-icon.png</link>
+      <url>https://www.sanlokii.eu/assets/images/apple-touch-icon.png</url>
+      <link>https://www.sanlokii.eu/assets/images/apple-touch-icon.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 26 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sanlokii.eu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.sanlokii.eu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DownUnderCTF : DFIR Investigation 1</title>
-      <link>https://sanlokii.eu/writeups/downunderctf/dfir-investigation-1/</link>
+      <link>https://www.sanlokii.eu/writeups/downunderctf/dfir-investigation-1/</link>
       <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sanlokii.eu/writeups/downunderctf/dfir-investigation-1/</guid>
+      <guid>https://www.sanlokii.eu/writeups/downunderctf/dfir-investigation-1/</guid>
       <description>Forensics - Medium</description>
     </item>
     
     <item>
       <title>DownUnderCTF : Ogres are like onions</title>
-      <link>https://sanlokii.eu/writeups/downunderctf/ogres-are-like-onions/</link>
+      <link>https://www.sanlokii.eu/writeups/downunderctf/ogres-are-like-onions/</link>
       <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sanlokii.eu/writeups/downunderctf/ogres-are-like-onions/</guid>
+      <guid>https://www.sanlokii.eu/writeups/downunderctf/ogres-are-like-onions/</guid>
       <description>Forensics - Easy</description>
     </item>
     
     <item>
       <title>DownUnderCTF : Shop-I&#39;m just looking!</title>
-      <link>https://sanlokii.eu/writeups/downunderctf/shop-im-just-looking/</link>
+      <link>https://www.sanlokii.eu/writeups/downunderctf/shop-im-just-looking/</link>
       <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sanlokii.eu/writeups/downunderctf/shop-im-just-looking/</guid>
+      <guid>https://www.sanlokii.eu/writeups/downunderctf/shop-im-just-looking/</guid>
       <description>Forensics - Easy</description>
     </item>
     
     <item>
       <title>DownUnderCTF : Shop-Knock Knock Knock</title>
-      <link>https://sanlokii.eu/writeups/downunderctf/shop-knock-knock-knock/</link>
+      <link>https://www.sanlokii.eu/writeups/downunderctf/shop-knock-knock-knock/</link>
       <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sanlokii.eu/writeups/downunderctf/shop-knock-knock-knock/</guid>
+      <guid>https://www.sanlokii.eu/writeups/downunderctf/shop-knock-knock-knock/</guid>
       <description>Forensics - Easy</description>
     </item>
     
     <item>
       <title>DownUnderCTF : Shop-Logging for what?</title>
-      <link>https://sanlokii.eu/writeups/downunderctf/shop-logging-for-what/</link>
+      <link>https://www.sanlokii.eu/writeups/downunderctf/shop-logging-for-what/</link>
       <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sanlokii.eu/writeups/downunderctf/shop-logging-for-what/</guid>
+      <guid>https://www.sanlokii.eu/writeups/downunderctf/shop-logging-for-what/</guid>
       <description>Forensics - Easy</description>
     </item>
     
     <item>
       <title>DownUnderCTF : Shop-Oi! Get out of there!</title>
-      <link>https://sanlokii.eu/writeups/downunderctf/shop-oi-get-out-of-there/</link>
+      <link>https://www.sanlokii.eu/writeups/downunderctf/shop-oi-get-out-of-there/</link>
       <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sanlokii.eu/writeups/downunderctf/shop-oi-get-out-of-there/</guid>
+      <guid>https://www.sanlokii.eu/writeups/downunderctf/shop-oi-get-out-of-there/</guid>
       <description>Forensics - Medium</description>
     </item>
     
     <item>
       <title>TFC CTF : Are you the admin?</title>
-      <link>https://sanlokii.eu/writeups/tfc-ctf/are-you-the-admin/</link>
+      <link>https://www.sanlokii.eu/writeups/tfc-ctf/are-you-the-admin/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sanlokii.eu/writeups/tfc-ctf/are-you-the-admin/</guid>
+      <guid>https://www.sanlokii.eu/writeups/tfc-ctf/are-you-the-admin/</guid>
       <description>Web - Easy</description>
     </item>
     
     <item>
       <title>TFC CTF : Deeplinks</title>
-      <link>https://sanlokii.eu/writeups/tfc-ctf/deeplinks/</link>
+      <link>https://www.sanlokii.eu/writeups/tfc-ctf/deeplinks/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sanlokii.eu/writeups/tfc-ctf/deeplinks/</guid>
+      <guid>https://www.sanlokii.eu/writeups/tfc-ctf/deeplinks/</guid>
       <description>Web - Easy</description>
     </item>
     
     <item>
       <title>TFC CTF : Diamonds</title>
-      <link>https://sanlokii.eu/writeups/tfc-ctf/diamonds/</link>
+      <link>https://www.sanlokii.eu/writeups/tfc-ctf/diamonds/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sanlokii.eu/writeups/tfc-ctf/diamonds/</guid>
+      <guid>https://www.sanlokii.eu/writeups/tfc-ctf/diamonds/</guid>
       <description>Web - Medium</description>
     </item>
     
     <item>
       <title>TFC CTF : Include what matters</title>
-      <link>https://sanlokii.eu/writeups/tfc-ctf/include-what-matters/</link>
+      <link>https://www.sanlokii.eu/writeups/tfc-ctf/include-what-matters/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sanlokii.eu/writeups/tfc-ctf/include-what-matters/</guid>
+      <guid>https://www.sanlokii.eu/writeups/tfc-ctf/include-what-matters/</guid>
       <description>Web - Medium</description>
     </item>
     
     <item>
       <title>TFC CTF : Tubeinc</title>
-      <link>https://sanlokii.eu/writeups/tfc-ctf/tubeinc/</link>
+      <link>https://www.sanlokii.eu/writeups/tfc-ctf/tubeinc/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sanlokii.eu/writeups/tfc-ctf/tubeinc/</guid>
+      <guid>https://www.sanlokii.eu/writeups/tfc-ctf/tubeinc/</guid>
       <description>Web - Hard</description>
     </item>
     
     <item>
       <title>HeroCTF v4 : SmallMistakeBigMistake</title>
-      <link>https://sanlokii.eu/writeups/heroctf-v4/smallmistakebigmistake/</link>
+      <link>https://www.sanlokii.eu/writeups/heroctf-v4/smallmistakebigmistake/</link>
       <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sanlokii.eu/writeups/heroctf-v4/smallmistakebigmistake/</guid>
+      <guid>https://www.sanlokii.eu/writeups/heroctf-v4/smallmistakebigmistake/</guid>
       <description>Web - Easy</description>
     </item>
     
     <item>
       <title>HeroCTF v4 : Undercover#1</title>
-      <link>https://sanlokii.eu/writeups/heroctf-v4/undercover1/</link>
+      <link>https://www.sanlokii.eu/writeups/heroctf-v4/undercover1/</link>
       <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sanlokii.eu/writeups/heroctf-v4/undercover1/</guid>
+      <guid>https://www.sanlokii.eu/writeups/heroctf-v4/undercover1/</guid>
       <description>System - Easy</description>
     </item>
     
     <item>
       <title>HeroCTF v4 : Undercover#2</title>
-      <link>https://sanlokii.eu/writeups/heroctf-v4/undercover2/</link>
+      <link>https://www.sanlokii.eu/writeups/heroctf-v4/undercover2/</link>
       <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sanlokii.eu/writeups/heroctf-v4/undercover2/</guid>
+      <guid>https://www.sanlokii.eu/writeups/heroctf-v4/undercover2/</guid>
       <description>System - Medium</description>
     </item>
     
     <item>
       <title>EZ CTF : I made a blog!</title>
-      <link>https://sanlokii.eu/writeups/ez-ctf/i-made-a-blog/</link>
+      <link>https://www.sanlokii.eu/writeups/ez-ctf/i-made-a-blog/</link>
       <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sanlokii.eu/writeups/ez-ctf/i-made-a-blog/</guid>
+      <guid>https://www.sanlokii.eu/writeups/ez-ctf/i-made-a-blog/</guid>
       <description>Web - Easy</description>
     </item>
     
     <item>
       <title>EZ CTF : Mario bros!!</title>
-      <link>https://sanlokii.eu/writeups/ez-ctf/mario-bros/</link>
+      <link>https://www.sanlokii.eu/writeups/ez-ctf/mario-bros/</link>
       <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sanlokii.eu/writeups/ez-ctf/mario-bros/</guid>
+      <guid>https://www.sanlokii.eu/writeups/ez-ctf/mario-bros/</guid>
       <description>Pwn - Easy</description>
     </item>
     
     <item>
       <title>EZ CTF : Save Peach!</title>
-      <link>https://sanlokii.eu/writeups/ez-ctf/save-peach/</link>
+      <link>https://www.sanlokii.eu/writeups/ez-ctf/save-peach/</link>
       <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sanlokii.eu/writeups/ez-ctf/save-peach/</guid>
+      <guid>https://www.sanlokii.eu/writeups/ez-ctf/save-peach/</guid>
       <description>Pwn - Hard</description>
     </item>
     
     <item>
       <title>EZ CTF : Super Secure</title>
-      <link>https://sanlokii.eu/writeups/ez-ctf/super-secure/</link>
+      <link>https://www.sanlokii.eu/writeups/ez-ctf/super-secure/</link>
       <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sanlokii.eu/writeups/ez-ctf/super-secure/</guid>
+      <guid>https://www.sanlokii.eu/writeups/ez-ctf/super-secure/</guid>
       <description>Web - Easy</description>
     </item>
     
     <item>
       <title>Patriot CTF : Curly Fry</title>
-      <link>https://sanlokii.eu/writeups/patriotctf/curly-fry/</link>
+      <link>https://www.sanlokii.eu/writeups/patriotctf/curly-fry/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sanlokii.eu/writeups/patriotctf/curly-fry/</guid>
+      <guid>https://www.sanlokii.eu/writeups/patriotctf/curly-fry/</guid>
       <description>Web - Easy</description>
     </item>
     
     <item>
       <title>Patriot CTF : Excellent Database</title>
-      <link>https://sanlokii.eu/writeups/patriotctf/excellent-database/</link>
+      <link>https://www.sanlokii.eu/writeups/patriotctf/excellent-database/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sanlokii.eu/writeups/patriotctf/excellent-database/</guid>
+      <guid>https://www.sanlokii.eu/writeups/patriotctf/excellent-database/</guid>
       <description>Web - Easy</description>
     </item>
     
     <item>
       <title>Patriot CTF : Locked</title>
-      <link>https://sanlokii.eu/writeups/patriotctf/locked/</link>
+      <link>https://www.sanlokii.eu/writeups/patriotctf/locked/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sanlokii.eu/writeups/patriotctf/locked/</guid>
+      <guid>https://www.sanlokii.eu/writeups/patriotctf/locked/</guid>
       <description>Web - Easy</description>
     </item>
     
     <item>
       <title>Patriot CTF : Not So Secret</title>
-      <link>https://sanlokii.eu/writeups/patriotctf/not-so-secret/</link>
+      <link>https://www.sanlokii.eu/writeups/patriotctf/not-so-secret/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sanlokii.eu/writeups/patriotctf/not-so-secret/</guid>
+      <guid>https://www.sanlokii.eu/writeups/patriotctf/not-so-secret/</guid>
       <description>Web - Medium</description>
     </item>
     
     <item>
       <title>CTF Midnight Flag : Nothing is classified</title>
-      <link>https://sanlokii.eu/writeups/midnightflag/nothing-is-classified/</link>
+      <link>https://www.sanlokii.eu/writeups/midnightflag/nothing-is-classified/</link>
       <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sanlokii.eu/writeups/midnightflag/nothing-is-classified/</guid>
+      <guid>https://www.sanlokii.eu/writeups/midnightflag/nothing-is-classified/</guid>
       <description>Steganography - Easy</description>
     </item>
     
     <item>
       <title>CTF Midnight Flag : To be private or not to be private</title>
-      <link>https://sanlokii.eu/writeups/midnightflag/to-be-private-or-not-to-be-private/</link>
+      <link>https://www.sanlokii.eu/writeups/midnightflag/to-be-private-or-not-to-be-private/</link>
       <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sanlokii.eu/writeups/midnightflag/to-be-private-or-not-to-be-private/</guid>
+      <guid>https://www.sanlokii.eu/writeups/midnightflag/to-be-private-or-not-to-be-private/</guid>
       <description>Web/Steganography - Easy</description>
     </item>
     
     <item>
       <title>CTF Midnight Flag : Крузенштерн</title>
-      <link>https://sanlokii.eu/writeups/midnightflag/%D0%BA%D1%80%D1%83%D0%B7%D0%B5%D0%BD%D1%88%D1%82%D0%B5%D1%80%D0%BD/</link>
+      <link>https://www.sanlokii.eu/writeups/midnightflag/%D0%BA%D1%80%D1%83%D0%B7%D0%B5%D0%BD%D1%88%D1%82%D0%B5%D1%80%D0%BD/</link>
       <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sanlokii.eu/writeups/midnightflag/%D0%BA%D1%80%D1%83%D0%B7%D0%B5%D0%BD%D1%88%D1%82%D0%B5%D1%80%D0%BD/</guid>
+      <guid>https://www.sanlokii.eu/writeups/midnightflag/%D0%BA%D1%80%D1%83%D0%B7%D0%B5%D0%BD%D1%88%D1%82%D0%B5%D1%80%D0%BD/</guid>
       <description>Misc - Medium</description>
     </item>
     
@@ -239,10 +239,10 @@
     
     <item>
       <title>Writeups</title>
-      <link>https://sanlokii.eu/writeups/</link>
+      <link>https://www.sanlokii.eu/writeups/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sanlokii.eu/writeups/</guid>
+      <guid>https://www.sanlokii.eu/writeups/</guid>
       <description>writeups</description>
     </item>
     

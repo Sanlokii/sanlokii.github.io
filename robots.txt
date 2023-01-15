@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://sanlokii.eu/sitemap.xml
+Sitemap: https://www.sanlokii.eu/sitemap.xml
