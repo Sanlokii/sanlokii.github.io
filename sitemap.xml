@@ -8,6 +8,15 @@
     <loc>https://sanlokii.eu/</loc>
     <lastmod>2023-01-22T16:01:53+01:00</lastmod>
   </url><url>
+    <loc>https://sanlokii.eu/tags/</loc>
+    <lastmod>2023-01-22T16:01:53+01:00</lastmod>
+  </url><url>
+    <loc>https://sanlokii.eu/tags/web/</loc>
+    <lastmod>2023-01-22T16:01:53+01:00</lastmod>
+  </url><url>
+    <loc>https://sanlokii.eu/tags/write-up/</loc>
+    <lastmod>2023-01-22T16:01:53+01:00</lastmod>
+  </url><url>
     <loc>https://sanlokii.eu/writeups/</loc>
     <lastmod>2023-01-22T16:01:53+01:00</lastmod>
   </url><url>
@@ -27,6 +36,9 @@
     <lastmod>2022-09-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanlokii.eu/writeups/downunderctf/shop-oi-get-out-of-there/</loc>
+    <lastmod>2022-09-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanlokii.eu/tags/forensics/</loc>
     <lastmod>2022-09-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanlokii.eu/writeups/tfc-ctf/are-you-the-admin/</loc>
@@ -51,6 +63,9 @@
     <lastmod>2022-05-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanlokii.eu/writeups/heroctf-v4/undercover2/</loc>
+    <lastmod>2022-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanlokii.eu/tags/pwn/</loc>
     <lastmod>2022-05-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanlokii.eu/writeups/ez-ctf/i-made-a-blog/</loc>
@@ -86,13 +101,17 @@
     <loc>https://sanlokii.eu/writeups/midnightflag/%D0%BA%D1%80%D1%83%D0%B7%D0%B5%D0%BD%D1%88%D1%82%D0%B5%D1%80%D0%BD/</loc>
     <lastmod>2022-04-24T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://sanlokii.eu/tags/misc/</loc>
+    <lastmod>2022-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanlokii.eu/tags/steganography/</loc>
+    <lastmod>2022-04-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://sanlokii.eu/archives/</loc>
   </url><url>
     <loc>https://sanlokii.eu/categories/</loc>
   </url><url>
     <loc>https://sanlokii.eu/search/</loc>
-  </url><url>
-    <loc>https://sanlokii.eu/tags/</loc>
   </url><url>
     <loc>https://sanlokii.eu/writeups/</loc>
   </url>

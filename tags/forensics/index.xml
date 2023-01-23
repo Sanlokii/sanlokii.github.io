@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Forensics on Sanlokii</title>
+    <link>https://sanlokii.eu/tags/forensics/</link>
+    <description>Recent content in Forensics on Sanlokii</description>
+    <image>
+      <url>https://sanlokii.eu/assets/images/yggdrasil_circle.png</url>
+      <link>https://sanlokii.eu/assets/images/yggdrasil_circle.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 26 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sanlokii.eu/tags/forensics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DownUnderCTF : DFIR Investigation 1</title>
+      <link>https://sanlokii.eu/writeups/downunderctf/dfir-investigation-1/</link>
+      <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sanlokii.eu/writeups/downunderctf/dfir-investigation-1/</guid>
+      <description>Forensics - Medium</description>
+    </item>
+    
+    <item>
+      <title>DownUnderCTF : Ogres are like onions</title>
+      <link>https://sanlokii.eu/writeups/downunderctf/ogres-are-like-onions/</link>
+      <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sanlokii.eu/writeups/downunderctf/ogres-are-like-onions/</guid>
+      <description>Forensics - Easy</description>
+    </item>
+    
+    <item>
+      <title>DownUnderCTF : Shop-I&#39;m just looking!</title>
+      <link>https://sanlokii.eu/writeups/downunderctf/shop-im-just-looking/</link>
+      <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sanlokii.eu/writeups/downunderctf/shop-im-just-looking/</guid>
+      <description>Forensics - Easy</description>
+    </item>
+    
+    <item>
+      <title>DownUnderCTF : Shop-Knock Knock Knock</title>
+      <link>https://sanlokii.eu/writeups/downunderctf/shop-knock-knock-knock/</link>
+      <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sanlokii.eu/writeups/downunderctf/shop-knock-knock-knock/</guid>
+      <description>Forensics - Easy</description>
+    </item>
+    
+    <item>
+      <title>DownUnderCTF : Shop-Logging for what?</title>
+      <link>https://sanlokii.eu/writeups/downunderctf/shop-logging-for-what/</link>
+      <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sanlokii.eu/writeups/downunderctf/shop-logging-for-what/</guid>
+      <description>Forensics - Easy</description>
+    </item>
+    
+    <item>
+      <title>DownUnderCTF : Shop-Oi! Get out of there!</title>
+      <link>https://sanlokii.eu/writeups/downunderctf/shop-oi-get-out-of-there/</link>
+      <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sanlokii.eu/writeups/downunderctf/shop-oi-get-out-of-there/</guid>
+      <description>Forensics - Medium</description>
+    </item>
+    
+  </channel>
+</rss>

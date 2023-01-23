@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MISC on Sanlokii</title>
+    <link>https://sanlokii.eu/tags/misc/</link>
+    <description>Recent content in MISC on Sanlokii</description>
+    <image>
+      <url>https://sanlokii.eu/assets/images/yggdrasil_circle.png</url>
+      <link>https://sanlokii.eu/assets/images/yggdrasil_circle.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 24 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sanlokii.eu/tags/misc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CTF Midnight Flag : Крузенштерн</title>
+      <link>https://sanlokii.eu/writeups/midnightflag/%D0%BA%D1%80%D1%83%D0%B7%D0%B5%D0%BD%D1%88%D1%82%D0%B5%D1%80%D0%BD/</link>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sanlokii.eu/writeups/midnightflag/%D0%BA%D1%80%D1%83%D0%B7%D0%B5%D0%BD%D1%88%D1%82%D0%B5%D1%80%D0%BD/</guid>
+      <description>Misc - Medium</description>
+    </item>
+    
+  </channel>
+</rss>
