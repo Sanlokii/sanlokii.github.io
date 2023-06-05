@@ -10,7 +10,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Mar 2023 11:51:16 +0100</lastBuildDate><atom:link href="https://sanlokii.eu/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://sanlokii.eu/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>404CTF : Fuite en 1791</title>
+      <link>https://sanlokii.eu/writeups/404ctf/fuite-en-1791/</link>
+      <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://sanlokii.eu/writeups/404ctf/fuite-en-1791/</guid>
+      <description>Web - Medium</description>
+    </item>
+    
+    <item>
+      <title>404CTF : L&#39;académie du détail</title>
+      <link>https://sanlokii.eu/writeups/404ctf/academie-du-detail/</link>
+      <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://sanlokii.eu/writeups/404ctf/academie-du-detail/</guid>
+      <description>Web - Easy</description>
+    </item>
+    
+    <item>
+      <title>404CTF : La vie française</title>
+      <link>https://sanlokii.eu/writeups/404ctf/la-vie-francaise/</link>
+      <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://sanlokii.eu/writeups/404ctf/la-vie-francaise/</guid>
+      <description>Web - Easy</description>
+    </item>
+    
     <item>
       <title>BreizhCTF : Bonjour Ondine</title>
       <link>https://sanlokii.eu/writeups/breizh-ctf/bonjour-ondine/</link>
