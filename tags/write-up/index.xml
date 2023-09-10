@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://sanlokii.eu/tags/write-up/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://sanlokii.eu/tags/write-up/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PatriotCTF : Pick Your Starter</title>
+      <link>https://sanlokii.eu/writeups/patriotctf/pick-your-starter/</link>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://sanlokii.eu/writeups/patriotctf/pick-your-starter/</guid>
+      <description>Web - Medium</description>
+    </item>
+    
     <item>
       <title>404CTF : Fuite en 1791</title>
       <link>https://sanlokii.eu/writeups/404ctf/fuite-en-1791/</link>
