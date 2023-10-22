@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sanlokii.eu/tags/forensics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://sanlokii.eu/tags/forensics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flag4All : Devops</title>
+      <link>https://sanlokii.eu/writeups/flag4all/devops/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://sanlokii.eu/writeups/flag4all/devops/</guid>
+      <description>Realist - Easy</description>
+    </item>
+    
     <item>
       <title>DownUnderCTF : DFIR Investigation 1</title>
       <link>https://sanlokii.eu/writeups/downunderctf/dfir-investigation-1/</link>

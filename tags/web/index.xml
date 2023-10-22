@@ -10,7 +10,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://sanlokii.eu/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://sanlokii.eu/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flag4All : Bashcook</title>
+      <link>https://sanlokii.eu/writeups/flag4all/bashcook/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://sanlokii.eu/writeups/flag4all/bashcook/</guid>
+      <description>Web - Medium</description>
+    </item>
+    
+    <item>
+      <title>Flag4All : Devops</title>
+      <link>https://sanlokii.eu/writeups/flag4all/devops/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://sanlokii.eu/writeups/flag4all/devops/</guid>
+      <description>Realist - Easy</description>
+    </item>
+    
+    <item>
+      <title>Flag4All : GuessMe</title>
+      <link>https://sanlokii.eu/writeups/flag4all/guessme/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://sanlokii.eu/writeups/flag4all/guessme/</guid>
+      <description>Web - Medium</description>
+    </item>
+    
     <item>
       <title>PatriotCTF : Pick Your Starter</title>
       <link>https://sanlokii.eu/writeups/patriotctf/pick-your-starter/</link>
