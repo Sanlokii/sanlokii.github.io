@@ -1,222 +1,178 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web on Sanlokii</title>
     <link>https://sanlokii.eu/tags/web/</link>
     <description>Recent content in Web on Sanlokii</description>
     <image>
+      <title>Sanlokii</title>
       <url>https://sanlokii.eu/assets/images/yggdrasil_circle.png</url>
       <link>https://sanlokii.eu/assets/images/yggdrasil_circle.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://sanlokii.eu/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://sanlokii.eu/tags/web/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Flag4All : Bashcook</title>
       <link>https://sanlokii.eu/writeups/flag4all/bashcook/</link>
       <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://sanlokii.eu/writeups/flag4all/bashcook/</guid>
       <description>Web - Medium</description>
     </item>
-    
     <item>
       <title>Flag4All : Devops</title>
       <link>https://sanlokii.eu/writeups/flag4all/devops/</link>
       <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://sanlokii.eu/writeups/flag4all/devops/</guid>
       <description>Realist - Easy</description>
     </item>
-    
     <item>
       <title>Flag4All : GuessMe</title>
       <link>https://sanlokii.eu/writeups/flag4all/guessme/</link>
       <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://sanlokii.eu/writeups/flag4all/guessme/</guid>
       <description>Web - Medium</description>
     </item>
-    
     <item>
       <title>PatriotCTF : Pick Your Starter</title>
       <link>https://sanlokii.eu/writeups/patriotctf/pick-your-starter/</link>
       <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://sanlokii.eu/writeups/patriotctf/pick-your-starter/</guid>
       <description>Web - Medium</description>
     </item>
-    
     <item>
       <title>404CTF : Fuite en 1791</title>
       <link>https://sanlokii.eu/writeups/404ctf/fuite-en-1791/</link>
       <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://sanlokii.eu/writeups/404ctf/fuite-en-1791/</guid>
       <description>Web - Medium</description>
     </item>
-    
     <item>
       <title>404CTF : L&#39;académie du détail</title>
       <link>https://sanlokii.eu/writeups/404ctf/academie-du-detail/</link>
       <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://sanlokii.eu/writeups/404ctf/academie-du-detail/</guid>
       <description>Web - Easy</description>
     </item>
-    
     <item>
       <title>404CTF : La vie française</title>
       <link>https://sanlokii.eu/writeups/404ctf/la-vie-francaise/</link>
       <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://sanlokii.eu/writeups/404ctf/la-vie-francaise/</guid>
       <description>Web - Easy</description>
     </item>
-    
     <item>
       <title>BreizhCTF : Bonjour Ondine</title>
       <link>https://sanlokii.eu/writeups/breizh-ctf/bonjour-ondine/</link>
       <pubDate>Thu, 23 Mar 2023 11:51:16 +0100</pubDate>
-      
       <guid>https://sanlokii.eu/writeups/breizh-ctf/bonjour-ondine/</guid>
       <description>Web - Very easy</description>
     </item>
-    
     <item>
       <title>Insomni&#39;hack Teaser : Welcome</title>
       <link>https://sanlokii.eu/writeups/insomnihack/welcome/</link>
       <pubDate>Mon, 23 Jan 2023 16:01:53 +0100</pubDate>
-      
       <guid>https://sanlokii.eu/writeups/insomnihack/welcome/</guid>
       <description>Web</description>
     </item>
-    
     <item>
       <title>KnightCTF : Knight Search</title>
       <link>https://sanlokii.eu/writeups/knightctf/knight-search/</link>
       <pubDate>Sun, 22 Jan 2023 16:01:53 +0100</pubDate>
-      
       <guid>https://sanlokii.eu/writeups/knightctf/knight-search/</guid>
       <description>Web</description>
     </item>
-    
     <item>
       <title>TFC CTF : Are you the admin?</title>
       <link>https://sanlokii.eu/writeups/tfc-ctf/are-you-the-admin/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://sanlokii.eu/writeups/tfc-ctf/are-you-the-admin/</guid>
       <description>Web - Easy</description>
     </item>
-    
     <item>
       <title>TFC CTF : Deeplinks</title>
       <link>https://sanlokii.eu/writeups/tfc-ctf/deeplinks/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://sanlokii.eu/writeups/tfc-ctf/deeplinks/</guid>
       <description>Web - Easy</description>
     </item>
-    
     <item>
       <title>TFC CTF : Diamonds</title>
       <link>https://sanlokii.eu/writeups/tfc-ctf/diamonds/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://sanlokii.eu/writeups/tfc-ctf/diamonds/</guid>
       <description>Web - Medium</description>
     </item>
-    
     <item>
       <title>TFC CTF : Include what matters</title>
       <link>https://sanlokii.eu/writeups/tfc-ctf/include-what-matters/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://sanlokii.eu/writeups/tfc-ctf/include-what-matters/</guid>
       <description>Web - Medium</description>
     </item>
-    
     <item>
       <title>TFC CTF : Tubeinc</title>
       <link>https://sanlokii.eu/writeups/tfc-ctf/tubeinc/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://sanlokii.eu/writeups/tfc-ctf/tubeinc/</guid>
       <description>Web - Hard</description>
     </item>
-    
     <item>
       <title>HeroCTF v4 : SmallMistakeBigMistake</title>
       <link>https://sanlokii.eu/writeups/heroctf-v4/smallmistakebigmistake/</link>
       <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://sanlokii.eu/writeups/heroctf-v4/smallmistakebigmistake/</guid>
       <description>Web - Easy</description>
     </item>
-    
     <item>
       <title>EZ CTF : I made a blog!</title>
       <link>https://sanlokii.eu/writeups/ez-ctf/i-made-a-blog/</link>
       <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://sanlokii.eu/writeups/ez-ctf/i-made-a-blog/</guid>
       <description>Web - Easy</description>
     </item>
-    
     <item>
       <title>EZ CTF : Super Secure</title>
       <link>https://sanlokii.eu/writeups/ez-ctf/super-secure/</link>
       <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://sanlokii.eu/writeups/ez-ctf/super-secure/</guid>
       <description>Web - Easy</description>
     </item>
-    
     <item>
       <title>Patriot CTF : Curly Fry</title>
       <link>https://sanlokii.eu/writeups/patriotctf/curly-fry/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://sanlokii.eu/writeups/patriotctf/curly-fry/</guid>
       <description>Web - Easy</description>
     </item>
-    
     <item>
       <title>Patriot CTF : Excellent Database</title>
       <link>https://sanlokii.eu/writeups/patriotctf/excellent-database/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://sanlokii.eu/writeups/patriotctf/excellent-database/</guid>
       <description>Web - Easy</description>
     </item>
-    
     <item>
       <title>Patriot CTF : Locked</title>
       <link>https://sanlokii.eu/writeups/patriotctf/locked/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://sanlokii.eu/writeups/patriotctf/locked/</guid>
       <description>Web - Easy</description>
     </item>
-    
     <item>
       <title>Patriot CTF : Not So Secret</title>
       <link>https://sanlokii.eu/writeups/patriotctf/not-so-secret/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://sanlokii.eu/writeups/patriotctf/not-so-secret/</guid>
       <description>Web - Medium</description>
     </item>
-    
     <item>
       <title>CTF Midnight Flag : To be private or not to be private</title>
       <link>https://sanlokii.eu/writeups/midnightflag/to-be-private-or-not-to-be-private/</link>
       <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://sanlokii.eu/writeups/midnightflag/to-be-private-or-not-to-be-private/</guid>
       <description>Web/Steganography - Easy</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Steganography on Sanlokii</title>
     <link>https://sanlokii.eu/tags/steganography/</link>
     <description>Recent content in Steganography on Sanlokii</description>
     <image>
+      <title>Sanlokii</title>
       <url>https://sanlokii.eu/assets/images/yggdrasil_circle.png</url>
       <link>https://sanlokii.eu/assets/images/yggdrasil_circle.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 24 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sanlokii.eu/tags/steganography/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://sanlokii.eu/tags/steganography/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CTF Midnight Flag : Nothing is classified</title>
       <link>https://sanlokii.eu/writeups/midnightflag/nothing-is-classified/</link>
       <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://sanlokii.eu/writeups/midnightflag/nothing-is-classified/</guid>
       <description>Steganography - Easy</description>
     </item>
-    
   </channel>
 </rss>
