@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://sanlokii.eu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GCC-CTF : Free Cider</title>
+      <link>https://sanlokii.eu/writeups/gcc-ctf/free-cider/</link>
+      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://sanlokii.eu/writeups/gcc-ctf/free-cider/</guid>
+      <description>Web - Easy</description>
+    </item>
     <item>
       <title>Flag4All : Bashcook</title>
       <link>https://sanlokii.eu/writeups/flag4all/bashcook/</link>

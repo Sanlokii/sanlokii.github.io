@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sanlokii.eu/writeups/gcc-ctf/free-cider/</loc>
+    <lastmod>2024-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanlokii.eu/</loc>
+    <lastmod>2024-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanlokii.eu/tags/</loc>
+    <lastmod>2024-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanlokii.eu/tags/web/</loc>
+    <lastmod>2024-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanlokii.eu/tags/write-up/</loc>
+    <lastmod>2024-03-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://sanlokii.eu/writeups/flag4all/bashcook/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -15,18 +30,6 @@
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanlokii.eu/tags/forensics/</loc>
-    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sanlokii.eu/</loc>
-    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sanlokii.eu/tags/</loc>
-    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sanlokii.eu/tags/web/</loc>
-    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sanlokii.eu/tags/write-up/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanlokii.eu/writeups/patriotctf/pick-your-starter/</loc>
