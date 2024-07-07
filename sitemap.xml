@@ -2,22 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sanlokii.eu/writeups/gcc-ctf/free-cider/</loc>
-    <lastmod>2024-03-03T00:00:00+00:00</lastmod>
+    <loc>https://sanlokii.eu/writeups/downunderctf/bad-policies/</loc>
+    <lastmod>2024-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanlokii.eu/writeups/downunderctf/co2/</loc>
+    <lastmod>2024-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanlokii.eu/writeups/downunderctf/parrot-the-emu/</loc>
+    <lastmod>2024-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanlokii.eu/writeups/downunderctf/sam-i-am/</loc>
+    <lastmod>2024-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanlokii.eu/writeups/downunderctf/zoo-feedback-form/</loc>
+    <lastmod>2024-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanlokii.eu/tags/forensics/</loc>
+    <lastmod>2024-07-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanlokii.eu/</loc>
-    <lastmod>2024-03-03T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanlokii.eu/tags/</loc>
-    <lastmod>2024-03-03T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanlokii.eu/tags/web/</loc>
-    <lastmod>2024-03-03T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanlokii.eu/tags/write-up/</loc>
-    <lastmod>2024-03-03T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanlokii.eu/writeups/</loc>
+    <lastmod>2024-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanlokii.eu/writeups/gcc-ctf/free-cider/</loc>
     <lastmod>2024-03-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanlokii.eu/writeups/flag4all/bashcook/</loc>
@@ -30,9 +48,6 @@
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanlokii.eu/writeups/flag4all/thanks_you_for_the_wildcard_ca/</loc>
-    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sanlokii.eu/tags/forensics/</loc>
     <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanlokii.eu/writeups/patriotctf/pick-your-starter/</loc>

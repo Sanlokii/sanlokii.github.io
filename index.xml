@@ -11,8 +11,43 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 03 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://sanlokii.eu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DownUnderCTF : Bad Policies</title>
+      <link>https://sanlokii.eu/writeups/downunderctf/bad-policies/</link>
+      <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://sanlokii.eu/writeups/downunderctf/bad-policies/</guid>
+      <description>Forensics - Easy</description>
+    </item>
+    <item>
+      <title>DownUnderCTF : co2</title>
+      <link>https://sanlokii.eu/writeups/downunderctf/co2/</link>
+      <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://sanlokii.eu/writeups/downunderctf/co2/</guid>
+      <description>Web - Easy</description>
+    </item>
+    <item>
+      <title>DownUnderCTF : Parrot the emu</title>
+      <link>https://sanlokii.eu/writeups/downunderctf/parrot-the-emu/</link>
+      <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://sanlokii.eu/writeups/downunderctf/parrot-the-emu/</guid>
+      <description>Web - Easy</description>
+    </item>
+    <item>
+      <title>DownUnderCTF : SAM I AM</title>
+      <link>https://sanlokii.eu/writeups/downunderctf/sam-i-am/</link>
+      <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://sanlokii.eu/writeups/downunderctf/sam-i-am/</guid>
+      <description>Forensics - Easy</description>
+    </item>
+    <item>
+      <title>DownUnderCTF : Zoo feedback form</title>
+      <link>https://sanlokii.eu/writeups/downunderctf/zoo-feedback-form/</link>
+      <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://sanlokii.eu/writeups/downunderctf/zoo-feedback-form/</guid>
+      <description>Web - Easy</description>
+    </item>
     <item>
       <title>GCC-CTF : Free Cider</title>
       <link>https://sanlokii.eu/writeups/gcc-ctf/free-cider/</link>

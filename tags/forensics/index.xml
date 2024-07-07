@@ -11,8 +11,22 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://sanlokii.eu/tags/forensics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DownUnderCTF : Bad Policies</title>
+      <link>https://sanlokii.eu/writeups/downunderctf/bad-policies/</link>
+      <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://sanlokii.eu/writeups/downunderctf/bad-policies/</guid>
+      <description>Forensics - Easy</description>
+    </item>
+    <item>
+      <title>DownUnderCTF : SAM I AM</title>
+      <link>https://sanlokii.eu/writeups/downunderctf/sam-i-am/</link>
+      <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://sanlokii.eu/writeups/downunderctf/sam-i-am/</guid>
+      <description>Forensics - Easy</description>
+    </item>
     <item>
       <title>Flag4All : Devops</title>
       <link>https://sanlokii.eu/writeups/flag4all/devops/</link>
