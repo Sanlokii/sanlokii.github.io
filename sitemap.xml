@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sanlokii.eu/writeups/fcsc/iforensics-invisible/</loc>
+    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanlokii.eu/writeups/fcsc/iforensics-itreasure/</loc>
+    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanlokii.eu/writeups/fcsc/socrate-outil-telecharge/</loc>
+    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanlokii.eu/writeups/fcsc/socrate-reverse-shell/</loc>
+    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanlokii.eu/tags/forensics/</loc>
+    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanlokii.eu/</loc>
+    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanlokii.eu/tags/</loc>
+    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanlokii.eu/tags/write-up/</loc>
+    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sanlokii.eu/writeups/</loc>
+    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://sanlokii.eu/writeups/downunderctf/bad-policies/</loc>
     <lastmod>2024-07-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -17,22 +44,7 @@
     <loc>https://sanlokii.eu/writeups/downunderctf/zoo-feedback-form/</loc>
     <lastmod>2024-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sanlokii.eu/tags/forensics/</loc>
-    <lastmod>2024-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sanlokii.eu/</loc>
-    <lastmod>2024-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sanlokii.eu/tags/</loc>
-    <lastmod>2024-07-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://sanlokii.eu/tags/web/</loc>
-    <lastmod>2024-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sanlokii.eu/tags/write-up/</loc>
-    <lastmod>2024-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sanlokii.eu/writeups/</loc>
     <lastmod>2024-07-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sanlokii.eu/writeups/gcc-ctf/free-cider/</loc>

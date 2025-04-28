@@ -9,10 +9,38 @@
       <url>https://sanlokii.eu/assets/images/yggdrasil_circle.png</url>
       <link>https://sanlokii.eu/assets/images/yggdrasil_circle.png</link>
     </image>
-    <generator>Hugo -- 0.146.7</generator>
+    <generator>Hugo -- 0.147.0</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://sanlokii.eu/tags/write-up/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FCSC : iForensics - iNvisible</title>
+      <link>https://sanlokii.eu/writeups/fcsc/iforensics-invisible/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://sanlokii.eu/writeups/fcsc/iforensics-invisible/</guid>
+      <description>Forensics - Medium</description>
+    </item>
+    <item>
+      <title>FCSC : iForensics - iTreasure</title>
+      <link>https://sanlokii.eu/writeups/fcsc/iforensics-itreasure/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://sanlokii.eu/writeups/fcsc/iforensics-itreasure/</guid>
+      <description>Forensics - Facile</description>
+    </item>
+    <item>
+      <title>FCSC : SOCrate - Outil téléchargé</title>
+      <link>https://sanlokii.eu/writeups/fcsc/socrate-outil-telecharge/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://sanlokii.eu/writeups/fcsc/socrate-outil-telecharge/</guid>
+      <description>Forensics - Medium</description>
+    </item>
+    <item>
+      <title>FCSC : SOCrate - Reverse shell</title>
+      <link>https://sanlokii.eu/writeups/fcsc/socrate-reverse-shell/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://sanlokii.eu/writeups/fcsc/socrate-reverse-shell/</guid>
+      <description>Forensics - Medium</description>
+    </item>
     <item>
       <title>DownUnderCTF : Bad Policies</title>
       <link>https://sanlokii.eu/writeups/downunderctf/bad-policies/</link>
